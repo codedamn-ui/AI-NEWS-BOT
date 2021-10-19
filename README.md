@@ -1,5 +1,7 @@
-This is a web app with integrated voice assistant in it created by using ALAN AI , React.js and Material UI.
+This is a web app with integrated voice assistant in it created by using Alan AI , React.js and Material UI.
 Its a news web app which delivers different categories of news to the users as per their voice command.
+
+As the title suggests , this project is based on AI integrated into a web-app. Alan is the perfect companion to your morning cup of coffee, when you’re too lazy to go up the web and scroll for some latest news. Alan is just a click away and can be directly controlled through your voice. He patiently listens to your queries and tries his best to fulfill all your demands. For instance, if you want some news on a particular category , Alan will fetch the news for you and also ask if you want it to be read out loud by him. He can fetch news from different sources all around the world and you can also target a specific term , For example – “Hey Alan , give me the latest news on PlayStation 5” and Alan would fetch it and display it to you. If you want Alan to open a certain news card for you (redirects you to the news source) just say, “Open number 3” or just “Open 3” , Alan is pretty dynamic which allows the users to be free with him and it also doesn’t bound Alan to just a few set of commands.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
