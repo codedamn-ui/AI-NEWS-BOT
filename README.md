@@ -1,3 +1,7 @@
+This is a web app with integrated voice assistant in it created by using ALAN AI , React.js and Material UI.
+Its a news web app which delivers different categories of news to the users as per their voice command.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
